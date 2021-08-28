@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Daniel Caitano 👋
+
+I’m currently learning Node.js, ReactJS, React Native.<br/>
+
+Here on my GitHub I have all my projects. 
+
+<a href="https://www.linkedin.com/in/daniel-caitano-9b81851b1/">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
 
 <!--
 **Caitano09/Caitano09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
