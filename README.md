@@ -5,7 +5,7 @@ I’m currently learning Node.js, ReactJS, React Native.<br/>
 Here on my GitHub I have all my projects. 
 
 How to reach me:<br/>
-<a href="https://www.linkedin.com/in/daniel-caitano-9b81851b1/">
+<a href="https://www.linkedin.com/in/daniel-caitano-9b81851b1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
